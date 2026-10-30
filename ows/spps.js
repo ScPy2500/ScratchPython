@@ -1,0 +1,1 @@
+document.write("<div style=\"z-index: 999; position: fixed; width: 60%; top: 1; padding: 0; right: 20%; background: rgba(255,255,255,0.5)\"><p style=\"margin: 0; padding: 0; font-size: 15px\">网站由<b><a href=\"//scpy.de5.net/\" target=\"_blank\" style=\"margin: 0;padding: 0\">ScPy</a></b>代理</p></div>");
